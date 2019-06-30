@@ -1,0 +1,11 @@
+[package]
+name = "ttoj"
+version = "0.1.0"
+authors = ["tehAnswer <sergiorodriguezgijon@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "Background jobs."
+repository = "https://github.com/tehAnswer/ttoj"
+readme = "README.md"
+
+[dependencies]
